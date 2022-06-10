@@ -8,7 +8,7 @@ A career in technology might be for you!
 - [🚀 Technology Career Kick Start 🚀](#-technology-career-kick-start-)
   - [Table Of Content](#table-of-content)
   - [How Do I Get Started? ❓](#how-do-i-get-started-)
-  - [How Much Will It Cost? �](#how-much-will-it-cost-)
+  - [How Much Will It Cost? 💲](#how-much-will-it-cost-)
   - [About Your Time 🕥](#about-your-time-)
   - [What Do I Need To Do To Make This A Reality? :eyes:](#what-do-i-need-to-do-to-make-this-a-reality-eyes)
   - [Average Salary Info 💰](#average-salary-info-)
@@ -88,6 +88,7 @@ You will notice throughout many of these topics that the skillsets often overlap
 - Database administration will likely require some knowledge of System Administration and Networking
 - DevOps will require knowledge of System Administration, Cloud, Networking, and Containers
 - Software Development will likely require knowledge of System Administration, Database Administration, and Cloud
+- CyberSecurity will likely require knowledge of System Administration, Networking, and Coding
 
 Do not let this scare you. Take it slowly and learn individual components as they become necessary on your learning path.
 
@@ -108,9 +109,9 @@ We have broken this out into different sections. Clicking the links below will t
 
 ### - [Tech Basics](/topics/tech-basics/README.md)
 ### - [System Administration](/topics/system-administration/README.md)
-### - Cloud
-### - DevOps
-### - CyberSecurity
+### - [Cloud](/topics/cloud/README.md)
+### - [DevOps](/topics/devops/README.md)
+### - [CyberSecurity](/topics/cybersecurity/README.md)
 ### - Web Development (Coming Soon)
 ### - Software Development (Coming Soon)
 ### - Database Administration (Coming Soon)
