@@ -2,15 +2,17 @@
 
 Tired of your current job and looking for a new career? Want to make more money, have a high potential for working remotely or hybrid work, and have more job satisfaction and a higher quality of life? 
 
-A career in technology might be for you!
+A career in technology might be for you and it is definitely within your reach.
+
+*“Whether you think you can, or you think you can't - you're right.”* ― Henry Ford
 
 ## Table Of Content
 - [🚀 Technology Career Kick Start 🚀](#-technology-career-kick-start-)
   - [Table Of Content](#table-of-content)
   - [How Do I Get Started? ❓](#how-do-i-get-started-)
-  - [How Much Will It Cost? 💲](#how-much-will-it-cost-)
+  - [How Much Will It Cost? 💵](#how-much-will-it-cost-)
   - [About Your Time 🕥](#about-your-time-)
-  - [What Do I Need To Do To Make This A Reality? :eyes:](#what-do-i-need-to-do-to-make-this-a-reality-eyes)
+  - [What Do You Need To Do To Make This A Reality? 👀](#what-do-you-need-to-do-to-make-this-a-reality-)
   - [Average Salary Info 💰](#average-salary-info-)
   - [Knowledge Overlap Per Topic 🪢](#knowledge-overlap-per-topic-)
   - [Starting From Nothing - Basic IT Training 🔥](#starting-from-nothing---basic-it-training-)
@@ -34,19 +36,19 @@ Follow the path laid out below. Information Technology is a huge field with many
 
 ---
 
-## How Much Will It Cost? 💲
+## How Much Will It Cost? 💵
 
 The path to getting a job is, and there is no other way to say this.... 
 
 **FREE**
 
-That's right. If you have a reasonably good computer and an internet connection, all resources listed here are free unless otherwise indicated. 
+That's right. If you have a reasonably good computer and an internet connection, the vast majority of resources listed here are free unless otherwise indicated. 
 
-Actually, that is not true. Your time has value. And to really make this move, it is going to cost you your time.
+Actually, that is not true. Your time has value, so this will cost you something. To really make this move, it is going to cost you your time.
 
 If you commit about 10 hours a week for 1-2 years, you can easily make over $100K/yr working remotely. Anywhere you have internet and your computer, you can do your job.
 
-There are a number of resources that might be better organized, slightly higher quality, more in line with your learning style and maybe a more efficient use of your time, but these paid resources are optional. The web is filled with incredible, high quality, freely available educational resources that will put you in a place to get a job in tech.
+There are many resources that might be better organized, slightly higher quality, more in line with your learning style and maybe a more efficient use of your time, but these paid resources are optional. The web is filled with incredible, high quality, freely available educational resources that will provide you with all the knowledge you need to get a job in tech.
 
 ---
 
@@ -58,26 +60,29 @@ You will have to give up some things. You will not be caught up on the latest Ne
 
 ---
 
-## What Do I Need To Do To Make This A Reality? :eyes:
+## What Do You Need To Do To Make This A Reality? 👀
 
 Commit. That's really it.
 
-If you commit about 10 hours a week for 1-2 years, you can easily make over $100K/yr working remotely. Anywhere you have internet and your computer, you can do your job.
+If you commit about 10 hours a week for 1-2 years, you can easily make over $100K/yr possibly working remotely. Imagine that life. Anywhere you have internet and your computer, you can do your job. 
+
+Remote work isn't just "Work From Home". It's work while visiting your brother in Ohio. It's work from the pool or beach. It's work from another country. The freedom tech work can provide is immense.
 
 ---
 
 ## Average Salary Info 💰
 
-- Average entry level IT salary (June 2022): **$51,073** ( https://www.indeed.com/career/entry-level-it-technician/salaries)
+Click the $Salary to see the source.
+
+- Average Entry Level IT salary (June 2022): [**$51,073**](https://www.indeed.com/career/entry-level-it-technician/salaries)
 - Average Cloud Engineer salary (June 2022):
-    - Entry Level: **$68,435** (https://www.ziprecruiter.com/Salaries/Entry-Level-Cloud-Administrator-Salary)
-    - Mid Level: **$120,728** ( https://www.indeed.com/career/cloud-engineer/salaries) 
-- Average Computer Programmer salary (June 2022): **$64,493** (​​ https://www.indeed.com/career/computer-programmer/salaries)
-- Average DevOps Engineer I salary (June 2022): **$71,978** (https://www.salary.com/research/salary/benchmark/devops-engineer-i-salary)
-- Software Engineer / Front End Developer and more averaging over $100k/yr: https://www.indeed.com/career/computer-programmer/jobs
+    - Entry Level: [**$68,435**](https://www.ziprecruiter.com/Salaries/)
+    - Mid Level: [**$120,728**]( https://www.indeed.com/career/cloud-engineer/salaries) 
+- Average Computer Programmer salary (June 2022): [**$64,493**](​​https://www.indeed.com/career/computer-programmer/salaries)
+- Average DevOps Engineer I salary (June 2022): [**$71,978**](https://www.salary.com/research/salary/benchmark/devops-engineer-i-salary)
 - Average Database Administrator salary (June 2022): 
-    - Entry Level: **$58,319** (https://www.ziprecruiter.com/Salaries/Entry-Level-Database-Administrator-Salary)
-    - Mid Level: **$89,163** (https://www.ziprecruiter.com/Salaries/Database-Administrator-Salary)
+    - Entry Level: [**$58,319**](https://www.ziprecruiter.com/Salaries/Entry-Level-Database-Administrator-Salary)
+    - Mid Level: [**$89,163**](https://www.ziprecruiter.com/Salaries/Database-Administrator-Salary)
 
 ---
 
