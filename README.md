@@ -4,13 +4,14 @@ Tired of your current job and looking for a new career? Want to make more money,
 
 A career in technology might be for you and it is definitely within your reach.
 
-*“Whether you think you can, or you think you can't - you're right.”* ― Henry Ford
+*“Whether you think you can, or you think you can't - you're right.”* ― **Henry Ford**
 
 ## Table Of Content
 - [🚀 Technology Career Kick Start 🚀](#-technology-career-kick-start-)
   - [Table Of Content](#table-of-content)
   - [How Do I Get Started? ❓](#how-do-i-get-started-)
-  - [How Much Will It Cost? 💵](#how-much-will-it-cost-)
+  - [How Much Will It Cost? :free:](#how-much-will-it-cost-free)
+  - [Beyond The Free Courses How Much Should You Spend? 💵](#beyond-the-free-courses-how-much-should-you-spend-)
   - [About Your Time 🕥](#about-your-time-)
   - [What Do You Need To Do To Make This A Reality? 👀](#what-do-you-need-to-do-to-make-this-a-reality-)
   - [Average Salary Info 💰](#average-salary-info-)
@@ -32,19 +33,19 @@ A career in technology might be for you and it is definitely within your reach.
 
 ## How Do I Get Started? ❓
 
-Follow the path laid out below. Information Technology is a huge field with many different areas of expertise and opportunities for you to find something that speaks to you, makes you excited to learn, and provides an exciting path forward.
+Follow the path laid out below. Information Technology is a huge field with many different areas of expertise and opportunities for you to find something that speaks to you, makes you excited to learn, and provides an exciting path forward in your career.
 
 ---
 
-## How Much Will It Cost? 💵
+## How Much Will It Cost? :free:
 
-The path to getting a job is, and there is no other way to say this.... 
+The path to getting a job can be, and there is no other way to say this.... 
 
 **FREE**
 
-That's right. If you have a reasonably good computer and an internet connection, the vast majority of resources listed here are free unless otherwise indicated. 
+That's right. If you have a reasonably good computer and an internet connection, the majority of resources listed here are free. This all depends on your current skillset. There are a number of intro or topic specific courses that are high quality and well worth your time.
 
-Actually, that is not true. Your time has value, so this will cost you something. To really make this move, it is going to cost you your time.
+Actually, that is not true. It isn't **FREE**. Your time has value, so this will cost you something. To really make this move, it is going to cost you your time.
 
 If you commit about 10 hours a week for 1-2 years, you can easily make over $100K/yr working remotely. Anywhere you have internet and your computer, you can do your job.
 
@@ -52,11 +53,32 @@ There are many resources that might be better organized, slightly higher quality
 
 ---
 
+## Beyond The Free Courses How Much Should You Spend? 💵  
+
+As mentioned before, if you are being extremely frugal or just don't have the funds right now, free course are going to get you a *LONG* way into a solid tech education. But if you are able to pay and want to leverage those additional resources, how much *SHOULD* it cost?
+
+Let's assume this is a 2 year path for you and we can do some napkin math with optimal pricing and a broad learning path:
+
+- One Year Coursera Google IT Support Certificates (and much much more): $39/month or $468/yr
+- One Year ACloudGuru.com (Black Friday Discount Pricing): ~$300/yr
+- Udemy Courses (Linux, Database, Python, More): Approx $15/course (almost always on sale) x 10 course = $150
+- One Year Code With Mosh (Black Friday Discount Pricing): $125/yr
+
+The breadth of knowledge you will get from these resources across general IT support, programming, cloud, Linux, containers and Kubernetes and more will easily put you in a 6 figure role for:
+
+**$1024**.
+
+That's right. For less than one months [average mortgage payment in the US](https://www.bankrate.com/mortgages/average-monthly-mortgage-payment/), you can completely change your career path and potential lifetime earnings.
+
+---
+
 ## About Your Time 🕥
 
 Time is precious. It is a non renewable resource. Your time is finite. Protect it and spend it on things that improve your life and the life of those your care about.
 
-You will have to give up some things. You will not be caught up on the latest Netflix series. You will not make it out to the bar with your friends every weekend. You will miss the season finale of "The Masked Singer". But your life will be much improved for it.
+You will have to give up some things. You will not be caught up on the latest Netflix series. You will not make it out to the bar with your friends every weekend. You will miss the season finale of "The Masked Singer". Your PS5 will get a bit dusty. But your life will be much improved for it.
+
+*"I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion'"* - **Muhammad Ali**
 
 ---
 
@@ -66,7 +88,9 @@ Commit. That's really it.
 
 If you commit about 10 hours a week for 1-2 years, you can easily make over $100K/yr possibly working remotely. Imagine that life. Anywhere you have internet and your computer, you can do your job. 
 
-Remote work isn't just "Work From Home". It's work while visiting your brother in Ohio. It's work from the pool or beach. It's work from another country. The freedom tech work can provide is immense.
+Remote work isn't just "Work From Home". It's work while visiting your brother in Ohio. It's work from the pool or beach. It's work from another country. The freedom tech work can provide is immense and well worth giving up little things now for big things later.
+
+*“The only person you can control is you. So focus on making yourself who you want to be: Faster. Stronger. Smarter. More humble. Less ego.”* – **Jocko Willink**
 
 ---
 
@@ -126,8 +150,8 @@ We have broken this out into different sections. Clicking the links below will t
 
 ## Contributing 🤝
 
-How can you contribute? For starters, share this repo out far and wide. Share with friends, family, co-workers, on your Facebook, Twitter, LinkedIn. This is a resource that could help many people.
+How can you contribute? For starters, share this repo out far and wide. Share with friends, family, co-workers, on your Facebook, Twitter, LinkedIn. Anywhere where you think there are people who are unhappy with their current path and want to make a change. This is a resource that could help many people.
 
-Also, please *star* this repo to help increase visibility.
+Also, please ⭐ this repo to help increase visibility.
 
 Lastly, there is so much great information out there that this needs to be a community effort. Please feel free to submit a PR or open an issue if there is a topic you think we should add.
