@@ -1,4 +1,4 @@
-# 🚀 Technology Career Kick Start 🚀
+# Technology Career Launch Pad 🚀
 
 Tired of your current job and looking for a new career? Want to make more money, have a high potential for working remotely or hybrid work, and have more job satisfaction and a higher quality of life? 
 
@@ -7,7 +7,7 @@ A career in technology might be for you and it is definitely within your reach.
 *“Whether you think you can, or you think you can't - you're right.”* ― **Henry Ford**
 
 ## Table Of Content
-- [🚀 Technology Career Kick Start 🚀](#-technology-career-kick-start-)
+- [Technology Career Launch Pad 🚀](#technology-career-launch-pad-)
   - [Table Of Content](#table-of-content)
   - [How Do I Get Started? ❓](#how-do-i-get-started-)
   - [How Much Will It Cost? :free:](#how-much-will-it-cost-free)
@@ -16,8 +16,8 @@ A career in technology might be for you and it is definitely within your reach.
   - [What Do You Need To Do To Make This A Reality? 👀](#what-do-you-need-to-do-to-make-this-a-reality-)
   - [Average Salary Info 💰](#average-salary-info-)
   - [Knowledge Overlap Per Topic 🪢](#knowledge-overlap-per-topic-)
-  - [Starting From Nothing - Basic IT Training 🔥](#starting-from-nothing---basic-it-training-)
-  - [Where To Learn Next? 🚀](#where-to-learn-next-)
+  - [Lighting The Fuse - Basic IT Training 🔥](#lighting-the-fuse---basic-it-training-)
+  - [Ready For Launch - What To Learn Next? 🚀](#ready-for-launch---what-to-learn-next-)
     - [- Tech Basics](#--tech-basics)
     - [- System Administration](#--system-administration)
     - [- Cloud](#--cloud)
@@ -96,7 +96,7 @@ Remote work isn't just "Work From Home". It's work while visiting your brother i
 
 ## Average Salary Info 💰
 
-Click the $Salary to see the source.
+Click the *$Salary* to see the source.
 
 - Average Entry Level IT salary (June 2022): [**$51,073**](https://www.indeed.com/career/entry-level-it-technician/salaries)
 - Average Cloud Engineer salary (June 2022):
@@ -112,9 +112,9 @@ Click the $Salary to see the source.
 
 ## Knowledge Overlap Per Topic 🪢
 
-You will notice throughout many of these topics that the skillsets often overlap. Examples:
+You will notice throughout many of these topics that the skill sets often overlap. Some examples:
 
-- Database administration will likely require some knowledge of System Administration and Networking
+- Database administration will likely require some knowledge of System Administration and Cloud
 - DevOps will require knowledge of System Administration, Cloud, Networking, and Containers
 - Software Development will likely require knowledge of System Administration, Database Administration, and Cloud
 - CyberSecurity will likely require knowledge of System Administration, Networking, and Coding
@@ -123,7 +123,7 @@ Do not let this scare you. Take it slowly and learn individual components as the
 
 ---
 
-## Starting From Nothing - Basic IT Training 🔥
+## Lighting The Fuse - Basic IT Training 🔥
 If you have little or no technology experience, start here. These free courses from Google will introduce you to many of the core concepts of technology that will allow you to build a solid foundation for your tech career.
 
 - Google IT Support Professional Certificate: https://www.coursera.org/professional-certificates/google-it-support 
@@ -132,7 +132,7 @@ https://www.coursera.org/professional-certificates/google-it-automation
 
 ---
 
-## Where To Learn Next? 🚀
+## Ready For Launch - What To Learn Next? 🚀
 
 We have broken this out into different sections. Clicking the links below will take you to a page that lists resources related to each topic.
 
