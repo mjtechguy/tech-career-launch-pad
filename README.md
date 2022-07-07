@@ -15,8 +15,7 @@ A career in technology might be for you and it is definitely within your reach.
   - [About Your Time 🕥](#about-your-time-)
   - [What Do You Need To Do To Make This A Reality? 👀](#what-do-you-need-to-do-to-make-this-a-reality-)
   - [Average Salary Info 💰](#average-salary-info-)
-  - [Knowledge Overlap Per Topic 🪢](#knowledge-overlap-per-topic-)
-  - [Lighting The Fuse - Basic IT Training 🔥](#lighting-the-fuse---basic-it-training-)
+  - [Knowledge Overlap Per Topic ♻️](#knowledge-overlap-per-topic-️)
   - [Ready For Launch - What To Learn Next? 🚀](#ready-for-launch---what-to-learn-next-)
     - [- Tech Basics](#--tech-basics)
     - [- System Administration](#--system-administration)
@@ -110,7 +109,7 @@ Click the *$Salary* to see the source.
 
 ---
 
-## Knowledge Overlap Per Topic 🪢
+## Knowledge Overlap Per Topic ♻️
 
 You will notice throughout many of these topics that the skill sets often overlap. Some examples:
 
@@ -123,18 +122,9 @@ Do not let this scare you. Take it slowly and learn individual components as the
 
 ---
 
-## Lighting The Fuse - Basic IT Training 🔥
-If you have little or no technology experience, start here. These free courses from Google will introduce you to many of the core concepts of technology that will allow you to build a solid foundation for your tech career.
-
-- Google IT Support Professional Certificate: https://www.coursera.org/professional-certificates/google-it-support 
-- Google IT Automation with Python Professional Certificate: 
-https://www.coursera.org/professional-certificates/google-it-automation
-
----
-
 ## Ready For Launch - What To Learn Next? 🚀
 
-We have broken this out into different sections. Clicking the links below will take you to a page that lists resources related to each topic.
+This has been broken out into different sections. Clicking the links below will take you to a page that lists resources related to each topic.
 
 ### - [Tech Basics](/topics/tech-basics/README.md)
 ### - [System Administration](/topics/system-administration/README.md)
@@ -150,7 +140,7 @@ We have broken this out into different sections. Clicking the links below will t
 
 ## Contributing 🤝
 
-How can you contribute? For starters, share this repo out far and wide. Share with friends, family, co-workers, on your Facebook, Twitter, LinkedIn. Anywhere where you think there are people who are unhappy with their current path and want to make a change. This is a resource that could help many people.
+How can you contribute? For starters, **share** this repo out far and wide. Share with friends, family, co-workers, on your Facebook, Twitter, LinkedIn. Anywhere where you think there are people who are unhappy with their current path and want to make a change. This is a resource that could help many people.
 
 Also, please ⭐ this repo to help increase visibility.
 

@@ -2,10 +2,10 @@
 
 Cybersecurity is the art of protecting networks, devices, and data from unauthorized access or criminal use and the practice of ensuring confidentiality, integrity, and availability of information. It seems that everything relies on computers and the internet now—communication (e.g., email, smartphones, tablets), entertainment (e.g., interactive video games, social media, apps ), transportation (e.g., navigation systems), shopping (e.g., online shopping, credit cards), medicine (e.g., medical equipment, medical records), and the list goes on. How much of your daily life relies on technology? How much of your personal information is stored either on your own computer, smartphone, tablet or on someone else's system? ([Source](https://www.cisa.gov/uscert/ncas/tips/ST04-001))
 
-There are 2 major roles in CyberSecurity:
+There are 2 high level paths in CyberSecurity (and these are note mutually exclusive, you can do both):
 
-- Red Team
-- Blue Team
+- Red Team - Attackers
+- Blue Team - Protectors
 
 Sometimes these are combined to be "Purple" team, where you are acting as an internal resource to both identify and exploit vulnerabilities and implementing or collaborating with others to implement remediations to prevent these attacks.
 
@@ -32,8 +32,9 @@ Under these areas there is a huge list of specialty areas that you should be fam
 
 - How to get into Cybersecurity with NO Experience - The Ultimate Guide - Josh Madakor (24 mins): https://www.youtube.com/watch?v=a83ASGn_V_s
 
-## Free CyberSecurity / Hacking Training
+- Hiring & Getting Hired in CyberSecurity - Heath Adams - 2022 (38 mins): https://www.youtube.com/watch?v=J09yWM9c4x8
 
+## Free CyberSecurity / Hacking Training
 
 - Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019) - Heath Adams / freeCodeCamp (15 Hours): https://youtu.be/3Kq1MIfTWCE
 
@@ -41,7 +42,7 @@ Under these areas there is a huge list of specialty areas that you should be fam
 
 - Linux Essentials for Ethical Hackers - Full InfoSec Course - HackerSploit / freeCodeCamp (5 Hours): https://youtu.be/1hvVcEhcbLM
 
-- Linux for Ethical Hackers (Kali Linux Tutorial) - Heath Adams / freeCodeCamp (2 Hours): https://www.youtube.com/watch?v=lZAoFs75_cs
+- Linux for Ethical Hackers (Kali Linux Tutorial) - Heath Adams (2 Hours): https://youtu.be/U1w4T03B30I
 
 - Web Application Ethical Hacking - Penetration Testing Course for Beginners - Heath Adams / freeCodeCamp (5 Hours): https://www.youtube.com/watch?v=X4eRbHgRawI
 
