@@ -10,6 +10,10 @@ A computer network consists of various kinds of nodes. Servers, networking hardw
 
 - What Is a Computer Network? (blog): https://www.codecademy.com/resources/blog/what-is-a-computer-network/
 
+- Introduction to networking for complete beginners -  Marious Kuriata (100 mins): https://www.udemy.com/course/introduction-to-networking-for-complete-beginners/
+
+- The Bits and Bytes of Computer Networking - Google IT Support Certificate (5+ Hours): https://www.youtube.com/playlist?list=PLTZYG7bZ1u6o6wz9EF9tQt1JS-pUmmKTj
+
 ## Traditional Networking Training
 
 - Computer Networking Course - Network Engineering [CompTIA Network+ Exam Prep] - Brain Farrell / freeCodeCamp (9+ Hours): https://www.youtube.com/watch?v=qiQR5rTSshw

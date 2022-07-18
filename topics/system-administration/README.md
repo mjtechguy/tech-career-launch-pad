@@ -20,7 +20,12 @@ At a high level,there are 3 major learning paths for becoming a SysAdmin.
 
 We will cover Linux and Windows as they are the most heavily used in the industry.
 
-## Learning Paths
+## Intro to System Administration
+
+System Administration and IT Infrastructure Services - Google IT Support Certificate (5 Hours): https://www.youtube.com/playlist?list=PLTZYG7bZ1u6ojo_vSOfdrYFf7N1OrWvhg
+
+
+## Operating System Specific Learning Paths
 
 - [Linux](/linux/README.md)
 - [Windows](/windows/README.md)

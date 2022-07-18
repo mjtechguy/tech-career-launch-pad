@@ -1,10 +1,10 @@
-# Windows Training Course
+# Windows Training Resources
 
-The courses below are Microsoft Operating System Training Courses.
+The courses below are Microsoft Operating System Training resources.
 
 ---
 
-## Free Windows Courses
+## Free Windows Resources
 
 ### Windows 10
 
