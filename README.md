@@ -23,10 +23,10 @@ A career in technology might be for you and it is definitely within your reach.
     - [- DevOps](#--devops)
     - [- Containers](#--containers)
     - [- CyberSecurity](#--cybersecurity)
+    - [- Networking](#--networking)
     - [- Web Development (Coming Soon)](#--web-development-coming-soon)
     - [- Software Development (Coming Soon)](#--software-development-coming-soon)
     - [- Database Administration (Coming Soon)](#--database-administration-coming-soon)
-    - [- Networking (Coming Soon)](#--networking-coming-soon)
   - [Contributing 🤝](#contributing-)
 
 ---
@@ -133,10 +133,10 @@ This has been broken out into different sections. Clicking the links below will 
 ### - [DevOps](/topics/devops/README.md)
 ### - [Containers](/topics/containers/README.md)
 ### - [CyberSecurity](/topics/cybersecurity/README.md)
+### - [Networking](/topics/networking/README.md)
 ### - Web Development (Coming Soon)
 ### - Software Development (Coming Soon)
 ### - Database Administration (Coming Soon)
-### - Networking (Coming Soon)
 
 ---
 

@@ -14,7 +14,7 @@ Businesses use four different methods to deploy cloud resources. There is a publ
 
 There is a huge amount of training available online for Cloud technologies. For now (June 2022) we will highlight the 3 largest (in the US) Cloud platforms and touch on a few others.
 
-- [Microsoft Azure](azure/README.md)
 - [Amazon Web Services (AWS)](aws/README/.md)
+- [Microsoft Azure](azure/README.md)
 - [Google Cloud Platform (GCP)](gcp/README.md)
-- [Misc (DigitalOcean, Linode, etc)](misc/README.md)
+- [Misc (DigitalOcean, Linode, etc)](misc-cloud/README.md)

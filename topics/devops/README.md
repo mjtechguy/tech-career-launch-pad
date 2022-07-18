@@ -30,7 +30,7 @@ Also, these lists are my (MJ) opinion and as I talk to more people and the indus
 - Linux Administration
 - Basic Networking and DNS
 - Familiarity with and at least 1 certifcation for 1 Cloud provider.
-- Containers - Docker and Kubernetes
+- Containers - Docker, Kubernetes and more
 - Git/SCM
 
 ### Full DevOps Skillset(?)
@@ -38,21 +38,29 @@ Also, these lists are my (MJ) opinion and as I talk to more people and the indus
 - Linux Administration
 - Cloud
 - Networking and DNS
-- Infrastructure as Code(IaC) and Configuration as Code (CaC) - Terraform, Ansible, Bash, etc
-- Containers - Docker and Kubernetes
+- Infrastructure as Code (IaC) and Configuration as Code (CaC) - Terraform, Ansible, Bash, etc
+- Containers - Docker, Kubernetes and more
 - Python
 - Continuous Integration / Continuous Delivery (CI/CD)
 - Git/SCM
 - Monitoring and Alerting
 - Log Management
 - Firewalls, WAFs, Cloud Account Policy
-- Agile/Scrum
+- Familiar with Agile/Scrum
 
 ---
 
 ## Free DevOps For Beginners / DevOps General Resources
 
+- What is DevOps? REALLY understand it | DevOps vs SRE - TechWorld with Nana (35 Mins): https://www.youtube.com/watch?v=0yWAtQ6wYNM
+
+- DevOps Roadmap 2022 - How to become a DevOps Engineer? What is DevOps? - TechWorld with Nana (14 mins): https://youtu.be/9pZ2xmsSDdo
+
 - What’s In a Name? DevOps Edition - Jon Goodall / freeCodeCamp (Blog): https://www.freecodecamp.org/news/whats-in-a-name-devops-edition-c3f4e1f85dfb/
+
+- What is DevOps? - GitHub (5 Mins): https://www.youtube.com/watch?v=kBV8gPVZNEE
+
+- What is DevSecOps? DevSecOps explained in 8 Mins - TechWorld with Nana (8 Mins): https://www.youtube.com/watch?v=nrhxNNH5lt0
 
 - DevOps Prerequisites Course - Getting started with DevOps - Mumshad Mannambeth / freeCodeCamp (3 Hours): https://youtu.be/Wvf0mBNGjXY
 
@@ -68,6 +76,8 @@ Also, these lists are my (MJ) opinion and as I talk to more people and the indus
 
 - DevOps Master Class - John Saville (12+ Hours): https://www.youtube.com/playlist?list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq
 
+- How I learn new technologies as a DevOps Engineer (without being overwhelmed) - TechWorld wit Nana (12 Mins): https://www.youtube.com/watch?v=Cthla7KqU04
+
 ## Linux Administration Training Resources
 
 See the [full Linux Administration Resource List here.](/topics/system-administration/linux/README.md).
@@ -75,6 +85,10 @@ See the [full Linux Administration Resource List here.](/topics/system-administr
 ## Cloud Training Resources
 
 See the [full Cloud Administration Resource List here.](/topics/cloud/README.md)
+
+## Container Training Resources
+
+See the [full Containers - Docker, Kubernetes and More Resource List here.](/topics/containers/README.md)
 
 ## Free Git Training Resources
 
@@ -106,4 +120,18 @@ See the [full Cloud Administration Resource List here.](/topics/cloud/README.md)
 
 ## Free Agile Scrum Resources
 
-Foundations of Agile and Agile In Practice - Google Project Management Certification (3 Hours): https://www.youtube.com/playlist?list=PLTZYG7bZ1u6qqC0WY6qdavSPas33nJX8t
+- How to Combine DevOps and Agile - DevOps.com (Blog): https://devops.com/how-to-combine-devops-and-agile/
+
+- The Role of Agile in DevOps - BMC (Blog): https://www.bmc.com/blogs/devops-agile/
+
+- How do Agile and DevOps interrelate? - Atlassian (Blog): https://www.atlassian.com/agile/devops
+
+- DevOps Vs Agile | DevOps Tutorial For Beginners | DevOps Tutorial | DevOps Training | Simplilearn (6 Mins): https://www.youtube.com/watch?v=4gTO-ZXh8DU
+
+- Agile and DevOps Similarities and Differences Compared - Darcy DeClute (3 Mins): https://www.youtube.com/watch?v=H4iXdQKLKsw
+
+- Scrum In Less Than 6 Min - Thabet Mabrouk (6 Mins): https://www.youtube.com/watch?v=LLK1bA6SQWk
+
+- DevOps vs Agile | Difference between DevOps and Agile | Intellipaat (14 Mins): https://www.youtube.com/watch?v=HDLvwcdF7yY
+
+- Foundations of Agile and Agile In Practice - Google Project Management Certification (3 Hours): https://www.youtube.com/playlist?list=PLTZYG7bZ1u6qqC0WY6qdavSPas33nJX8t

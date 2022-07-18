@@ -18,4 +18,15 @@ A computer network consists of various kinds of nodes. Servers, networking hardw
 
 - Computer Networking Course - Network Engineering [CompTIA Network+ Exam Prep] - Brain Farrell / freeCodeCamp (9+ Hours): https://www.youtube.com/watch?v=qiQR5rTSshw
 
+- Computer Networking Complete Course - Basic to Advanced - My CS (9+ Hours): https://www.youtube.com/watch?v=0PbTi_Prpgs
+
 ## Cloud Networking Training
+
+- Cloud Networking Introduction - Eli The Computer Guy (23 Mins): https://www.youtube.com/watch?v=U7h2Pharcas
+
+- Cloud Networking Overview (Using AWS as reference) - Cisco Data Center and Cloud Made Easy
+(13 Mins): https://www.youtube.com/watch?v=WmyiE27uKOo
+
+- Networking For Cloud Computing (Essential Cloud Network Training) - Go Cloud Computing (26 Mins): https://www.youtube.com/watch?v=WCCXtlvOajI
+
+- Cloud OnAir: Google Cloud Networking 101 - Google Cloud (43 Mins): https://www.youtube.com/watch?v=0hN-dyOV10c
