@@ -64,6 +64,8 @@ Also, these lists are my (MJ) opinion and as I talk to more people and the indus
 
 - DevOps Prerequisites Course - Getting started with DevOps - Mumshad Mannambeth / freeCodeCamp (3 Hours): https://youtu.be/Wvf0mBNGjXY
 
+- DevOps - The Introduction Course - Mumshad Mannambeth, KodeKloud Training (2+ Hours): https://www.udemy.com/course/learn-devops/
+
 - DevOps Engineering Course for Beginners - Colin Chartier / freeCodeCamp (2+ Hours): https://www.youtube.com/watch?v=j5Zsa_eOXeY
 
 - DevOps Tutorial for Beginners | Learn DevOps in 7 Hours - Full Course | DevOps Training | Edureka (7 Hours): https://www.youtube.com/watch?v=hQcFE0RD0cQ

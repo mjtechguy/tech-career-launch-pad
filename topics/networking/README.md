@@ -30,3 +30,7 @@ A computer network consists of various kinds of nodes. Servers, networking hardw
 - Networking For Cloud Computing (Essential Cloud Network Training) - Go Cloud Computing (26 Mins): https://www.youtube.com/watch?v=WCCXtlvOajI
 
 - Cloud OnAir: Google Cloud Networking 101 - Google Cloud (43 Mins): https://www.youtube.com/watch?v=0hN-dyOV10c
+
+## CCNA - Cisco Certified Network Administrator
+
+- Free CCNA 200-301 | Complete Course 2022 - Jeremy's IT Lab (51+ Hours): https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
