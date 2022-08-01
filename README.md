@@ -31,6 +31,7 @@ A career in technology might be for you and it is definitely within your reach.
     - [- Data Science (Coming Soon)](#--data-science-coming-soon)
     - [- AI/ML (Coming Soon)](#--aiml-coming-soon)
   - [Contributing 🤝](#contributing-)
+  - [About Me](#about-me)
 
 ---
 
@@ -162,3 +163,17 @@ How can you contribute? For starters, **share** this repo out far and wide. Shar
 Also, please ⭐ this repo to help increase visibility.
 
 Lastly, there is so much great information out there that this needs to be a community effort. Please feel free to submit a PR or open an issue if there is a topic you think we should add.
+
+## About Me
+
+My name is Mike Johnson. You can call me MJ. I have been working in technology for over 22 year and have a vast amount of experience in many areas of technology, mostly from the Infrastructure and Operations side.
+
+I have some container certs, a few cloud certs, and spend most of my time these days building robust cloud, container and cybersecurity automation tooling.
+
+Feel free to connect with me and I look forward to hearing from you.
+
+**Github:** https://github.com/mjtechguy
+**Youtube:** https://www.youtube.com/channel/UCngu1SJ-pyiNEHMINKlW8Uw
+**LinkedIn:** https://www.linkedin.com/in/mjtechguy/
+**Website:** https://mjtechguy.com
+**Email:** mj@tclp.club
