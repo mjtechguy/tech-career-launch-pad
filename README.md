@@ -1,6 +1,8 @@
 # Technology Career Launch Pad 🚀
 
-Tired of your current job and looking for a new career? Want to make more money, have a high potential for working remotely or hybrid work, and have more job satisfaction and a higher quality of life? 
+Welcome to the Tech Career Launch Pad (TCLP). Glad you found us?
+
+Tired of your current job and looking for a new career? Looking to advance in your your tech career? Want to make more money, have a high potential for working remotely or hybrid work, and have more job satisfaction and a higher quality of life? 
 
 A career in technology might be for you and it is definitely within your reach.
 
