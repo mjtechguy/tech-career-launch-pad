@@ -9,6 +9,7 @@ A career in technology might be for you and it is definitely within your reach.
 ## Table Of Content
 - [Technology Career Launch Pad 🚀](#technology-career-launch-pad-)
   - [Table Of Content](#table-of-content)
+  - [Before you get started. 👈](#before-you-get-started-)
   - [How Do I Get Started? ❓](#how-do-i-get-started-)
   - [How Much Will It Cost? :free:](#how-much-will-it-cost-free)
   - [Beyond The Free Courses How Much Should You Spend? 💵](#beyond-the-free-courses-how-much-should-you-spend-)
@@ -27,7 +28,19 @@ A career in technology might be for you and it is definitely within your reach.
     - [- Web Development (Coming Soon)](#--web-development-coming-soon)
     - [- Software Development (Coming Soon)](#--software-development-coming-soon)
     - [- Database Administration (Coming Soon)](#--database-administration-coming-soon)
+    - [- Data Science (Coming Soon)](#--data-science-coming-soon)
+    - [- AI/ML (Coming Soon)](#--aiml-coming-soon)
   - [Contributing 🤝](#contributing-)
+
+---
+
+## Before you get started. 👈
+
+This is not an exhaustive list of all career opportunities in tech. I have been in tech for over 20 years and I am still learning about new areas of technology that exist.
+
+What this is intended to be is a gateway into the field of technology focusing on prominent technologies where I regularly see high demand (as of 2022). 
+
+Hopefully these courses lead you to tech areas that are interesting and exciting to you and then you can deep dive on those topics yourself and pursue it.
 
 ---
 
@@ -43,13 +56,13 @@ The path to getting a job can be, and there is no other way to say this....
 
 **FREE**
 
-That's right. If you have a reasonably good computer and an internet connection, the majority of resources listed here are free. This all depends on your current skillset. There are a number of intro or topic specific courses that are high quality and well worth your time.
+That's right. If you have a reasonably good computer and an internet connection, the majority of resources listed here are free. Pick some topics that seem interesting, buckle down, and work through the courses.
 
 Actually, that is not true. It isn't **FREE**. Your time has value, so this will cost you something. To really make this move, it is going to cost you your time.
 
-If you commit about 10 hours a week for 1-2 years, you can easily make over $100K/yr working remotely. Anywhere you have internet and your computer, you can do your job.
+If you commit about 10 hours a week for 1-2 years, I believe you can easily make over $100K/yr working remotely. Anywhere you have internet and your computer, you can do your job.
 
-There are many resources that might be better organized, slightly higher quality, more in line with your learning style and maybe a more efficient use of your time, but these paid resources are optional. The web is filled with incredible, high quality, freely available educational resources that will provide you with all the knowledge you need to get a job in tech.
+There are many paid resources that might be better organized, slightly higher quality, more in line with your learning style and maybe a more efficient use of your time, but these paid resources are optional. The web is filled with incredible, high quality, freely available educational resources that will provide you with all the knowledge you need to get a job in tech.
 
 ---
 
@@ -57,7 +70,7 @@ There are many resources that might be better organized, slightly higher quality
 
 As mentioned before, if you are being extremely frugal or just don't have the funds right now, free course are going to get you a *LONG* way into a solid tech education. But if you are able to pay and want to leverage those additional resources, how much *SHOULD* it cost?
 
-Let's assume this is a 2 year path for you and we can do some napkin math with optimal pricing and a broad learning path:
+Let's assume this is a 2 year journey for you and we can do some napkin math with optimal pricing and a broad learning path:
 
 - One Year Coursera Google IT Support Certificates (and much much more): $39/month or $468/yr
 - One Year ACloudGuru.com (Black Friday Discount Pricing): ~$300/yr
@@ -88,7 +101,7 @@ Commit. That's really it.
 
 If you commit about 10 hours a week for 1-2 years, you can easily make over $100K/yr possibly working remotely. Imagine that life. Anywhere you have internet and your computer, you can do your job. 
 
-Remote work isn't just "Work From Home". It's work while visiting your brother in Ohio. It's work from the pool or beach. It's work from another country. The freedom tech work can provide is immense and well worth giving up little things now for big things later.
+Remote work isn't just "Work From Home". It's work while visiting your brother in Ohio. It's work from the pool or beach. It's work from another country. It is dropping your kid off at school, picking them up early and going to get ice cream.  It is spending more time with family and friends. The freedom tech work can provide is immense and well worth giving up little things now for big things later. 
 
 *“The only person you can control is you. So focus on making yourself who you want to be: Faster. Stronger. Smarter. More humble. Less ego.”* – **Jocko Willink**
 
@@ -137,6 +150,8 @@ This has been broken out into different sections. Clicking the links below will 
 ### - Web Development (Coming Soon)
 ### - Software Development (Coming Soon)
 ### - Database Administration (Coming Soon)
+### - Data Science (Coming Soon)
+### - AI/ML (Coming Soon)
 
 ---
 
