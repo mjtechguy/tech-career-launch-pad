@@ -43,6 +43,8 @@ What this is intended to be is a gateway into the field of technology focusing o
 
 Hopefully these courses lead you to tech areas that are interesting and exciting to you and then you can deep dive on those topics yourself and pursue it.
 
+This is also not just for people looking to get into tech. This is also a great resource for people who are already in tech and want to level up their tech career. I hope this can be a resource for you to take your career to the next level.
+
 ---
 
 ## How Do I Get Started? ❓
