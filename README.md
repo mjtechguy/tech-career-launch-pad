@@ -174,8 +174,8 @@ I have some container certs, a few cloud certs, and spend most of my time these 
 
 Feel free to connect with me and I look forward to hearing from you.
 
-**Github:** https://github.com/mjtechguy
-**Youtube:** https://www.youtube.com/channel/UCngu1SJ-pyiNEHMINKlW8Uw
-**LinkedIn:** https://www.linkedin.com/in/mjtechguy/
-**Website:** https://mjtechguy.com
-**Email:** mj@tclp.club
+- **Github:** https://github.com/mjtechguy
+- **Youtube:** https://www.youtube.com/channel/UCngu1SJ-pyiNEHMINKlW8Uw
+- **LinkedIn:** https://www.linkedin.com/in/mjtechguy/
+- **Website:** https://mjtechguy.com
+- **Email:** mj@tclp.club
