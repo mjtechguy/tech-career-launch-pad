@@ -168,6 +168,8 @@ Also, please ⭐ this repo to help increase visibility.
 
 Lastly, there is so much great information out there that this needs to be a community effort. Please feel free to submit a PR or open an issue if there is a topic you think we should add.
 
+---
+
 ## About Me
 
 My name is Mike Johnson. You can call me MJ. I have been working in technology for over 22 year and have a vast amount of experience in many areas of technology, mostly from the Infrastructure and Operations side.
