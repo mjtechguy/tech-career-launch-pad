@@ -8,8 +8,19 @@ A career in technology might be for you and it is definitely within your reach.
 
 *“Whether you think you can, or you think you can't - you're right.”* ― **Henry Ford**
 
+---
+
+## Watch The TCLP Intro Video
+
+**TCLP Launch Video:** https://youtu.be/T_ioyw2HZ6A
+
+[![Alt text](assets/tclp-launch.png)](https://youtu.be/T_ioyw2HZ6A)
+
+---
+
 ## Table Of Content
 - [Technology Career Launch Pad 🚀](#technology-career-launch-pad-)
+  - [Watch The TCLP Intro Video](#watch-the-tclp-intro-video)
   - [Table Of Content](#table-of-content)
   - [Before you get started. 👈](#before-you-get-started-)
   - [How Do I Get Started? ❓](#how-do-i-get-started-)
@@ -114,14 +125,16 @@ Remote work isn't just "Work From Home". It's work while visiting your brother i
 
 ## Average Salary Info 💰
 
-Click the *$Salary* to see the source.
+Click the *$Salary* to see the source. Industry recognized certifications in these areas will likely increase your salary potential.
 
 - Average Entry Level IT salary (June 2022): [**$51,073**](https://www.indeed.com/career/entry-level-it-technician/salaries)
 - Average Cloud Engineer salary (June 2022):
     - Entry Level: [**$68,435**](https://www.ziprecruiter.com/Salaries/)
     - Mid Level: [**$120,728**]( https://www.indeed.com/career/cloud-engineer/salaries) 
 - Average Computer Programmer salary (June 2022): [**$64,493**](​​https://www.indeed.com/career/computer-programmer/salaries)
-- Average DevOps Engineer I salary (June 2022): [**$71,978**](https://www.salary.com/research/salary/benchmark/devops-engineer-i-salary)
+- Average DevOps Engineer salary (June 2022): 
+    - DevOps Engineer I (Entry Level): [**$71,978**](https://www.salary.com/research/salary/benchmark/devops-engineer-i-salary)
+    - DevOps Engineer II (Entry/Mid Level): [**$94,213**](https://www.salary.com/research/salary/benchmark/devops-engineer-ii-salary)
 - Average Database Administrator salary (June 2022): 
     - Entry Level: [**$58,319**](https://www.ziprecruiter.com/Salaries/Entry-Level-Database-Administrator-Salary)
     - Mid Level: [**$89,163**](https://www.ziprecruiter.com/Salaries/Database-Administrator-Salary)
