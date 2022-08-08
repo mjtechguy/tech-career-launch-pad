@@ -65,6 +65,10 @@ HashiCorp Terraform is an infrastructure as code tool that lets you define both 
 
 - HashiCorp Terraform Associate Certification Course - Pass the Exam! - freeCodeCamp (13+ Hours): https://youtu.be/V4waklkBC38
 
+- Build a Dev Environment with AWS and Terraform - Derek Morgan (~2 Hours): https://courses.morethancertified.com/p/rfp-terraform
+
+- Build a Dev Environment with Azure and Terraform - Derek Morgan (~2 Hours): https://courses.morethancertified.com/p/rfp-terraform-azure
+
 ## Ansible Training Resources
 
 Ansible® is an open sourceIT automation tool that automates provisioning, configuration management, application deployment, orchestration, and many other manual IT processes. Unlike more simplistic management tools, Ansible users (like system administrators, developers and architects) can use Ansible automation to install software, automate daily tasks, provision infrastructure, improve security and compliance, patch systems, and share automation across the entire organization.[Source](https://www.redhat.com/en/technologies/management/ansible/what-is-ansible)
@@ -80,6 +84,8 @@ Ansible® is an open sourceIT automation tool that automates provisioning, confi
 - Getting Started with Ansible - Red Hat (52 Mins): https://youtu.be/MRoLVm6nTCU
 
 - Just enough Ansible to be dangerous - Gourav Shah (1 Hour): https://www.udemy.com/course/just-enough-ansible/
+
+- Getting Started with Ansible Navigator - Open Source Ops/Nikhil Jain (50 Mins): https://www.youtube.com/watch?v=SvI-90g4u9o
 
 - Ansible Basics: An Automation Technical Overview - Red Hat Inc (2 Hours): https://www.udemy.com/course/ansible-basics-an-automation-technical-overview/
 
