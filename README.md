@@ -44,6 +44,7 @@ A career in technology might be for you and it is definitely within your reach.
     - [- Data Science (Coming Soon)](#--data-science-coming-soon)
     - [- AI/ML (Coming Soon)](#--aiml-coming-soon)
   - [Contributing 🤝](#contributing-)
+  - [Thank You's](#thank-yous)
   - [About Me](#about-me)
 
 ---
@@ -180,6 +181,13 @@ How can you contribute? For starters, **share** this repo out far and wide. Shar
 Also, please ⭐ this repo to help increase visibility.
 
 Lastly, there is so much great information out there that this needs to be a community effort. Please feel free to submit a PR or open an issue if there is a topic you think we should add.
+
+---
+## Thank You's
+
+I would like to extend a MASSIVE thank you to all of the amazing creators who put in all the hard work to create these high quality, technical education resources for anyone to learn from. I appreciate every one of you and we as a community are all in your debt.
+
+Please support these people. Like, Subscribe, Share, and support these folks if their content helps you. 
 
 ---
 
