@@ -1,6 +1,8 @@
 # Technology Career Launch Pad 🚀
 
-Welcome to the Tech Career Launch Pad (TCLP). Glad you found us!
+Welcome to the Tech Career Launch Pad (TCLP). Glad you found us! 
+
+Drop a ⭐ on this repo to help increase visibility please!
 
 Tired of your current job and looking for a new career? Looking to advance in your your tech career? Want to make more money, have a high potential for working remotely or hybrid work, and have more job satisfaction and a higher quality of life? 
 
@@ -44,8 +46,8 @@ A career in technology might be for you and it is definitely within your reach.
     - [- Data Science (Coming Soon)](#--data-science-coming-soon)
     - [- AI/ML (Coming Soon)](#--aiml-coming-soon)
   - [Contributing 🤝](#contributing-)
-  - [Thank You's](#thank-yous)
-  - [About Me](#about-me)
+  - [Thank You's 🙏](#thank-yous-)
+  - [About Me ℹ️](#about-me-ℹ️)
 
 ---
 
@@ -183,7 +185,7 @@ Also, please ⭐ this repo to help increase visibility.
 Lastly, there is so much great information out there that this needs to be a community effort. Please feel free to submit a PR or open an issue if there is a topic you think we should add.
 
 ---
-## Thank You's
+## Thank You's 🙏
 
 I would like to extend a MASSIVE thank you to all of the amazing creators who put in all the hard work to create these high quality, technical education resources for anyone to learn from. I appreciate every one of you and we as a community are all in your debt.
 
@@ -191,7 +193,7 @@ Please support these people. Like, Subscribe, Share, and support these folks if 
 
 ---
 
-## About Me
+## About Me ℹ️
 
 My name is Mike Johnson. You can call me MJ. I have been working in technology for over 22 year and have a vast amount of experience in many areas of technology, mostly from the Infrastructure and Operations side.
 
