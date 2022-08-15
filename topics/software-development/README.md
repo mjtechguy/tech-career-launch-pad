@@ -1,6 +1,10 @@
-## Software Development / Coding
+## Software Development / Coding / Programming
 
-Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components. Software development involves writing and maintaining the source code, but in a broader sense, it includes all processes from the conception of the desired software through to the final manifestation of the software, typically in a planned and structured process.[1] Software development also includes research, new development, prototyping, modification, reuse, re-engineering, maintenance, or any other activities that result in software products
+People often  use the terms "programmer", "coder" and "developer" synonymously. But do these three terms mean the same thing?
+
+Well, not quite.
+
+For a better explanation than I could ever give, check out this post on freeCodeCamp: [Programming VS Coding VS Development – What's the Difference?](https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/)
 
 ---
 
