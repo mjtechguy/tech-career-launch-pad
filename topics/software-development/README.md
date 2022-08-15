@@ -1,14 +1,10 @@
 ## Software Development / Coding
 
+Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components. Software development involves writing and maintaining the source code, but in a broader sense, it includes all processes from the conception of the desired software through to the final manifestation of the software, typically in a planned and structured process.[1] Software development also includes research, new development, prototyping, modification, reuse, re-engineering, maintenance, or any other activities that result in software products
 
-
-
-## Intro to Computer Programming / Software Development
-
-Introduction to Programming and Computer Science - Full Course - Steven and Sean from NullPointer Exception / freeCodeCamp (2 Hours): https://www.youtube.com/watch?v=zOjov-2OZ0E
+---
 
 ## Python
 
-Python - Intro To Computer Science - Harvard / freeCodeCamp (2 Hours): https://www.youtube.com/watch?v=hnDU1G9hWqU
+Check out the full list of [Python Learning Resources](python/README.md).
 
-Crash Course on Python for Beginners - Google IT Automation with Python (4+ Hours): https://www.youtube.com/playlist?list=PLTZYG7bZ1u6pqki1CRuW4D4XwsBrRbUpg
