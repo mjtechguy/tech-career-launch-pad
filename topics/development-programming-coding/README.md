@@ -1,4 +1,4 @@
-## Software Development / Coding / Programming
+## Development / Programming / Coding
 
 People often  use the terms "programmer", "coder" and "developer" synonymously. But do these three terms mean the same thing?
 
