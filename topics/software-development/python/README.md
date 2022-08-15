@@ -54,7 +54,6 @@ Python is an interpreted, object-oriented, high-level programming language with 
 
 - Intermediate Python Programming Course - freeCodeCamp (6 Hours): https://www.youtube.com/watch?v=HGOBQPFzWKo
 
-
 ---
 
 ## Python Project Resources
