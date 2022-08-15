@@ -8,7 +8,7 @@ Tired of your current job and looking for a new career? Looking to advance in yo
 
 A career in technology might be for you and it is definitely within your reach.
 
-*“Whether you think you can, or you think you can't - you're right.”* ― **Henry Ford**
+*“Whether you think you can, or you think you can't - you're right.”* ― **Henry Ford** 💭
 
 ---
 
@@ -61,6 +61,8 @@ Hopefully these courses lead you to tech areas that are interesting and exciting
 
 This is also not just for people looking to get into tech. This is also a great resource for people who are already in tech and want to level up their tech career. I hope this can be a resource for you to take your career to the next level.
 
+*"I am always doing that which I cannot do, in order that I may learn how to do it."* – **Pablo Picasso** 💭
+
 ---
 
 ## How Do I Get Started? ❓
@@ -110,7 +112,7 @@ Time is precious. It is a non renewable resource. Your time is finite. Protect i
 
 You will have to give up some things. You will not be caught up on the latest Netflix series. You will not make it out to the bar with your friends every weekend. You will miss the season finale of "The Masked Singer". Your PS5 will get a bit dusty. But your life will be much improved for it.
 
-*"I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion'"* - **Muhammad Ali**
+*"I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion'"* - **Muhammad Ali** 💭
 
 ---
 
@@ -122,7 +124,7 @@ If you commit about 10 hours a week for 1-2 years, you can easily make over $100
 
 Remote work isn't just "Work From Home". It's work while visiting your brother in Ohio. It's work from the pool or beach. It's work from another country. It is dropping your kid off at school, picking them up early and going to get ice cream.  It is spending more time with family and friends. The freedom tech work can provide is immense and well worth giving up little things now for big things later. 
 
-*“The only person you can control is you. So focus on making yourself who you want to be: Faster. Stronger. Smarter. More humble. Less ego.”* – **Jocko Willink**
+*“The only person you can control is you. So focus on making yourself who you want to be: Faster. Stronger. Smarter. More humble. Less ego.”* – **Jocko Willink** 💭
 
 ---
 
